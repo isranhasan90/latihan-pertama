@@ -8,3 +8,5 @@ $$f(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\r
 Nilai harapan atau rata-rata dari distribusi normal disimbolkan sebagai:
 
 $$E(X) = \mu$$
+
+![Deskripsi Gambar](image/plot_cmeans_2.png)
